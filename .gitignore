@@ -1,0 +1,4 @@
+.cache/
+*.dmg
+app.asar
+app.asar.unpacked/
